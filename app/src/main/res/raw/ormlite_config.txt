@@ -1,0 +1,17 @@
+# --table-start--
+dataClass=code.finalmovil.User
+tableName=user
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=firstName
+# --field-end--
+# --field-start--
+fieldName=lastName
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
